@@ -1,2 +1,2 @@
 # Object Orientation Programing 
- Some of my exercices in OOP discipline 
+ This repository contains some of my exercices in OOP discipline 
